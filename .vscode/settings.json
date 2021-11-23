@@ -1,0 +1,16 @@
+{
+    "vim.hlsearch": true,
+    // see https://github.com/daipeihust/im-select
+    "vim.autoSwitchInputMethod.defaultIM": "com.google.inputmethod.Japanese.Roman",
+    "vim.autoSwitchInputMethod.obtainIMCmd": "/usr/local/bin/im-select",
+    "vim.autoSwitchInputMethod.switchIMCmd": "/usr/local/bin/im-select {im}",
+    "vim.autoSwitchInputMethod.enable": true,
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.suggest.preview": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "window.closeWhenEmpty": true,
+}
